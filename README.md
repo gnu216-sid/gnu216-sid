@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Siddarthanandan 👋
 
-<!--
-**gnu216-sid/gnu216-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Student from Hyderabad, India
+🌱 Currently learning Python, Machine Learning & AI
+🚀 Building projects in ML and Web Development
+💡 Always exploring new tech
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Python | Java | HTML | CSS
+- Currently learning: NumPy, Pandas, ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🏋️ Demo Gym Website
+- 🏧 ATM Application (Java)
